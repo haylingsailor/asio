@@ -15,6 +15,7 @@ test-driver
 /doc
 /lib
 /boostified
+/elasticified
 /tsified
 *.gz
 *.bz2
